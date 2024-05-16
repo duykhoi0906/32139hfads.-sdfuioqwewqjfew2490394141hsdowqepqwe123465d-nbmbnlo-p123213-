@@ -28,7 +28,7 @@ edit = vang+"]"+trang+"["+do+"[⟨⟩]"+trang+"]"+vang+"["+trang+" ➩ "+luc
 edit1 = trang+"["+do+"[⟨⟩]"+trang+"]"+trang+" ➩ "+luc
 os.system("cls" if os.name == "nt" else "clear")
 banner="""
-Tool Tiktok
+Tool Tiktok By NGUYỄN DUY KHÔI ZALO 0868.442.365 Mọi Thắc Mắc Liên Hệ Nhận Code Tools Theo Yêu Cầu
 """
 for X in banner:
   sys.stdout.write(X)
